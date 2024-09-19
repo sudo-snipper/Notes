@@ -11,11 +11,28 @@
             "id": "83b68bfa6d2152c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/passwd_writable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbb5e849930f2924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md"
+              }
             }
           }
         ]
@@ -140,8 +161,28 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2407f9994b7f3065",
+  "active": "dbb5e849930f2924",
   "lastOpenFiles": [
+    "Hacking/old-notes/buy.md",
+    "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md",
+    "Hacking/old-notes/RoadMap & Blue Print/Bug Bounty Blue Print.md",
+    "Hacking/Tools/Footprinting and Reconnaissance.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/passwd_writable.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/NFS.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/KERNEL MODULE.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/Kernel Exploits.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/History.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/hidden directory.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/find command.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/By mysql.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Image/Image hiden data.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/FootPrinting/Website.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/cryptography/gpg.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/cryptography/openssl.md",
+    "Hacking/old-notes/old notes/tech-notes/BittenTech/Dos/Tools.md",
+    "Hacking/Tools/Web App/Untitled.md",
+    "Hacking/Tools/Web App",
+    "Hacking/Tools",
     "SBI-SO/Syllabus",
     "Untitled.md",
     "Untitled",
