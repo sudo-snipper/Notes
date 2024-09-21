@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "743c1ae06331402d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-new.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test-new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test-new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test-new.md"
+                "file": "final-check.md"
               }
             }
           }
@@ -161,10 +146,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "743c1ae06331402d",
+  "active": "2407f9994b7f3065",
   "lastOpenFiles": [
-    "Hacking/Tools/Footprinting and Reconnaissance.md",
     "test-new.md",
+    "final-check.md",
+    "Hacking/Tools/Footprinting and Reconnaissance.md",
     "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/passwd_writable.md",
     "1-Reconnaissance-and-Footprinting.md",
     "Hacking/old-notes/Hacking/Networking/Basic concepts/IP and Mac adress.md",
