@@ -9,7 +9,7 @@
 
 > number 2 is only even prime number 
 > 
-![[Pasted image 20240921131831.png]]
+![Alt text](../../../Pasted%20image%2020240921131831.png)
 
 ## composite numbers
 
@@ -20,9 +20,9 @@
 
 if HCF of two numbers is 1 , then co-prime
 
-![Alt text](Pasted%20image%2020240921123513.png)
+![Alt text](../../../Pasted%20image%2020240921123513.png)
 
-![Alt text](Pasted%20image%2020240921123527.png)
+![Alt text](../../../Pasted%20image%2020240921123527.png)
 
 > LCM always be their product 
 > Two even numbers can't be co-prime
@@ -36,12 +36,12 @@ by 7 : last 3 digit are zero or divisible by 8
 
 by 7 :
 
-![Alt text](Pasted%20image%2020240921124534.png)
+![Alt text](../../../Pasted%20image%2020240921124534.png)
 
 
 ## Basic formulas
 
-![Alt text](Pasted%20image%2020240921125204.png)
+![Alt text](../../../Pasted%20image%2020240921125204.png)
 
 
 
