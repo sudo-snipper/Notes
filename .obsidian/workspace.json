@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sbi-so/Notes/Quant/Number Series.md",
+                "file": "sbi-so/Notes/Quant/easy topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sbi-so/Notes/Quant/Number Series.md",
+                "file": "sbi-so/Notes/Quant/easy topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sbi-so/Notes/Quant/Number Series.md",
+                "file": "sbi-so/Notes/Quant/easy topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sbi-so/Notes/Quant/Number Series.md"
+                "file": "sbi-so/Notes/Quant/easy topics.md"
               }
             }
           }
@@ -150,8 +150,17 @@
   },
   "active": "0ee0c6719edc518f",
   "lastOpenFiles": [
+    "Pasted image 20240921131831.png",
+    "Pasted image 20240921125204.png",
+    "Pasted image 20240921124534.png",
+    "Pasted image 20240921123527.png",
+    "Pasted image 20240921123513.png",
+    "Pasted image 20240921122105.png",
+    "sbi-so/study-material/quant/rs_aggarwal_quantitative_aptitude.pdf",
+    "sbi-so/study-material/quant/quantitative.pdf",
+    "sbi-so/study-material/quant",
     "Hacking/old-notes/1-Reconnaissance-and-Footprinting.md",
-    "sbi-so/Notes/Quant/Number Series.md",
+    "sbi-so/Notes/Quant/easy topics.md",
     "sbi-so/Notes/Quant",
     "sbi-so/Notes",
     "Hacking/Tools/Footprinting and Reconnaissance.md",
@@ -181,8 +190,6 @@
     "SBI-SO/Syllabus",
     "Untitled",
     "SBI-SO",
-    "another test note.md",
-    "test-notes.md",
-    "test"
+    "another test note.md"
   ]
 }
