@@ -45,4 +45,11 @@ by 7 :
 
 
 
+## A.P (arithmetic pro.)
+
+![](attachments/Pasted%20image%2020240921143000.png)
+
+## G.P (geometric pro.)
+
+![](attachments/Pasted%20image%2020240921143448.png)
 
