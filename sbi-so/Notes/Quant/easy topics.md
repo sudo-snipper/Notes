@@ -43,4 +43,3 @@ by 7 :
 
 ![[Pasted image 20240921125204.png]]
 
-Pasted image 20240921122105.png
