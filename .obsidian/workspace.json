@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hacking/Tools/Footprinting and Reconnaissance.md",
+                "file": "sbi-so/Notes/Quant/Number Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sbi-so/Notes/Quant/Number Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sbi-so/Notes/Quant/Number Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "final-check.md"
+                "file": "sbi-so/Notes/Quant/Number Series.md"
               }
             }
           }
@@ -146,13 +148,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2407f9994b7f3065",
+  "active": "0ee0c6719edc518f",
   "lastOpenFiles": [
+    "Hacking/old-notes/1-Reconnaissance-and-Footprinting.md",
+    "sbi-so/Notes/Quant/Number Series.md",
+    "sbi-so/Notes/Quant",
+    "sbi-so/Notes",
+    "Hacking/Tools/Footprinting and Reconnaissance.md",
     "test-new.md",
     "final-check.md",
-    "Hacking/Tools/Footprinting and Reconnaissance.md",
     "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/passwd_writable.md",
-    "1-Reconnaissance-and-Footprinting.md",
     "Hacking/old-notes/Hacking/Networking/Basic concepts/IP and Mac adress.md",
     "Hacking/old-notes/old notes/tech-notes/UseFull/Isolated Cloud to Open Links and files [free].md",
     "Hacking/old-notes/RoadMap & Blue Print/Hacking Roadmap.md",
