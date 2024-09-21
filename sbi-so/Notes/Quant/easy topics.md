@@ -3,7 +3,7 @@
 
 
 ![[Pasted image 20240921122105.png]]
-
+![Alt text](Pasted image 20240921122105.png)
 
 ## Prime number Trick
 
