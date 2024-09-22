@@ -3,8 +3,7 @@
 
 
 ![](attachments/Pasted%20image%2020240921122105.png)
-
-
+![](attachments/Pasted%20image%2020240922134934.png)
 ## Prime number Trick
 
 > number 2 is only even prime number 
@@ -65,7 +64,15 @@ by 7 :
 ![](attachments/Pasted%20image%2020240922113249.png)
 ![](attachments/Pasted%20image%2020240922113708.png)
 
-## Square Root
+## Square Roots
+
+#### `1. √xy = √x * √y`
+#### `2. √(x/y) = √x / √y = (√x / √y) * (√y / √y) = √xy / y`
+
+
+![](attachments/Pasted%20image%2020240922134448.png)
+
+	
 
 
 

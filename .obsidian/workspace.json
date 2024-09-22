@@ -128,8 +128,17 @@
                 "file": "sbi-so/Notes/Quant/easy topics.md"
               }
             }
+          },
+          {
+            "id": "43d5489cc3adc0b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,8 +157,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0ee0c6719edc518f",
+  "active": "43d5489cc3adc0b9",
   "lastOpenFiles": [
+    "sbi-so/Notes/Quant/attachments/Pasted image 20240922134934.png",
+    "sbi-so/Notes/Quant/attachments/Pasted image 20240922134448.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922113708.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922113249.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922113056.png",
@@ -161,8 +172,6 @@
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921124534.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921123527.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921123513.png",
-    "sbi-so/Notes/Quant/attachments/Pasted image 20240921122105.png",
-    "Pasted image 20240921131831.png",
     "sbi-so/Notes/Quant/attachments",
     "sbi-so/study-material/quant/rs_aggarwal_quantitative_aptitude.pdf",
     "sbi-so/study-material/quant/quantitative.pdf",

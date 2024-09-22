@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "rightToLeft": false
 }
