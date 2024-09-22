@@ -54,3 +54,18 @@ by 7 :
 
 ![](attachments/Pasted%20image%2020240921143448.png)
 
+## HCF & LCM
+
+###### `Product of Two numbers = (HCF of the two numbers) x (LCM of the two numbers)`
+
+#### find hcf by divide
+
+![](attachments/Pasted%20image%2020240922111502.png)
+![](attachments/Pasted%20image%2020240922113056.png)
+![](attachments/Pasted%20image%2020240922113249.png)
+![](attachments/Pasted%20image%2020240922113708.png)
+
+
+
+
+
