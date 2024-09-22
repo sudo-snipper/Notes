@@ -65,6 +65,7 @@ by 7 :
 ![](attachments/Pasted%20image%2020240922113249.png)
 ![](attachments/Pasted%20image%2020240922113708.png)
 
+## Square Root
 
 
 
