@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sbi-so/Notes/Quant/easy topics.md",
+                "file": "Hacking/old-notes/old notes/tech-notes/wireshark/Location and Map in Wireshark.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sbi-so/Notes/Quant/easy topics.md",
+                "file": "Hacking/old-notes/old notes/tech-notes/wireshark/Location and Map in Wireshark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sbi-so/Notes/Quant/easy topics.md",
+                "file": "Hacking/old-notes/old notes/tech-notes/wireshark/Location and Map in Wireshark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sbi-so/Notes/Quant/easy topics.md"
+                "file": "Hacking/old-notes/old notes/tech-notes/wireshark/Location and Map in Wireshark.md"
               }
             }
           },
@@ -157,8 +157,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "43d5489cc3adc0b9",
+  "active": "0ee0c6719edc518f",
   "lastOpenFiles": [
+    "Hacking/old-notes/old notes/tech-notes/wireshark/Filters.md",
+    "Hacking/old-notes/old notes/tech-notes/protcols and clients/SMB.md",
+    "Hacking/old-notes/old notes/tech-notes/Ports/port.md",
+    "Hacking/old-notes/old notes/tech-notes/Networking/TCp handshake.md",
+    "Hacking/old-notes/old notes/tech-notes/Network +/Chapter 1 _- Introduction/Introduction & basic terms.md",
+    "sbi-so/Notes/Quant/easy topics.md",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922134934.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922134448.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922113708.png",
@@ -166,12 +172,10 @@
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922113056.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240922111502.png",
     "sbi-so/Notes/Quant/Moc Test Link.md",
-    "sbi-so/Notes/Quant/easy topics.md",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921131831.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921125204.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921124534.png",
     "sbi-so/Notes/Quant/attachments/Pasted image 20240921123527.png",
-    "sbi-so/Notes/Quant/attachments/Pasted image 20240921123513.png",
     "sbi-so/Notes/Quant/attachments",
     "sbi-so/study-material/quant/rs_aggarwal_quantitative_aptitude.pdf",
     "sbi-so/study-material/quant/quantitative.pdf",
@@ -197,10 +201,6 @@
     "Hacking/old-notes/old notes/tech-notes/BittenTech/Linux Priv Esc/By mysql.md",
     "Hacking/old-notes/old notes/tech-notes/BittenTech/Image/Image hiden data.md",
     "Hacking/old-notes/old notes/tech-notes/BittenTech/FootPrinting/Website.md",
-    "Hacking/old-notes/old notes/tech-notes/BittenTech/cryptography/gpg.md",
-    "Hacking/old-notes/old notes/tech-notes/BittenTech/cryptography/openssl.md",
-    "Hacking/old-notes/old notes/tech-notes/BittenTech/Dos/Tools.md",
-    "Hacking/Tools/Web App/Untitled.md",
     "Hacking/Tools/Web App",
     "Hacking/Tools",
     "SBI-SO/Syllabus",
